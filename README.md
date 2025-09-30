@@ -1,2 +1,2 @@
 # data_structure
-Assignment1: Implement LinkedList and build unit test
+Assignment1: Implement LinkedList from scratch and build unit test
