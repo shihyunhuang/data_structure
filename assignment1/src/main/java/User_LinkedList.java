@@ -5,7 +5,7 @@ import java.util.PriorityQueue;
 public class User_LinkedList {
     private Node head;
     public int nextid = 1;
-    private PriorityQueue<Integer> freeid = new PriorityQueue<>();
+    private final PriorityQueue<Integer> freeid = new PriorityQueue<>();
 
     // Get user by ID
     public Node getByID(int id){
