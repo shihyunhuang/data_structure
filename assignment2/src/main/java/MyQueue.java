@@ -1,10 +1,8 @@
-import java.util.LinkedList;
-
 public class MyQueue<T> {
-    private final LinkedList<T> list;
+    private final MyLinkedList<T> list;
 
     // Constructor
-    public MyQueue(){ list = new LinkedList<>(); }
+    public MyQueue(){ list = new MyLinkedList<>(); }
 
     //Enqueue method
     public void enqueue(T obj){ list.add(obj); }

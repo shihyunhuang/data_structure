@@ -1,10 +1,8 @@
-import java.util.LinkedList;
-
 public class MyStack<T> {
-    private final LinkedList<T> list;
+    private final MyLinkedList<T> list;
 
     // Constructor
-    public MyStack(){ list = new LinkedList<>(); }
+    public MyStack(){ list = new MyLinkedList<>(); }
 
     // Push method
     public void push(T obj){ list.add(obj); }
