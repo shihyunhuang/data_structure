@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.PriorityQueue;
 
@@ -151,7 +150,7 @@ public class User_LinkedList {
         Node a_cur = a.head;
         Node b_cur = b.head;
         Node current = mergedList.head;
-        ArrayList<Node> same = new ArrayList<>();
+        MyArrayList<Node> same = new MyArrayList<>();
 
         // Add first node
         if(a_cur == null && b_cur == null){
