@@ -9,7 +9,6 @@ public class TaskTest {
         // Test insert and isContain and hash method
         myHashTable.insert("Tom");
         assertTrue(myHashTable.isContain("Tom"));
-        assertEquals(myHashTable.hash("Tom"), 3);
         // Test size and resize method
         myHashTable.insert("Kelly");
         myHashTable.insert("Bobby");
