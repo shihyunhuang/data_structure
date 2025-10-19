@@ -1,0 +1,3 @@
+Student Number: S002, Last Name: B, Home: Vancouver, Program: SE, Year: 3
+Student Number: S006, Last Name: C, Home: Halifax, Program: SE, Year: 3
+Student Number: S001, Last Name: D, Home: Toronto, Program: CS, Year: 2
