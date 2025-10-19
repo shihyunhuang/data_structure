@@ -1,0 +1,4 @@
+Student Number: S001, Last Name: D, Home: Toronto, Program: CS, Year: 2
+Student Number: S004, Last Name: A, Home: Calgary, Program: CS, Year: 4
+Student Number: S005, Last Name: G, Home: Ottawa, Program: CS, Year: 2
+Student Number: S007, Last Name: E, Home: Edmonton, Program: IT, Year: 1

@@ -101,7 +101,7 @@ public class BinarySearchTree {
         return pivot;
     }
 
-    // Traverse method and write to file
+    // DFS method and write to file
     public void DFS(Node node, PrintWriter writer) {
         if(node != null){
             DFS(node.left, writer);
